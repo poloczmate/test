@@ -11,6 +11,5 @@ int main(){
         }
     }
     std::cout << lko << std::endl;
-    std::cout << "hello git" << std::endl;
     return 0;
 }
